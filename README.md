@@ -4,7 +4,7 @@ We are a group of individuals that believe that it should be possible to keep tr
 
 ## Contact Us
 For more information on the project, please feel free to reach out to us over email!  
-<a href="mailto:haley@everywherehr.org">haley@everywhereehr.org</a>  
-<a href="mailto:manny@everywherehr.org">manny@everywhereehr.org</a>  
-<a href="mailto:jared@everywherehr.org">jared@everywhereehr.org</a>  
-<a href="mailto:joe@everywherehr.org">joe@everywhereehr.org</a>
+[haley@everywhereehr.org](mailto:haley@everywherehr.org)  
+[manny@everywhereehr.org](mailto:manny@everywherehr.org)  
+[jared@everywhereehr.org](mailto:jared@everywherehr.org)  
+[joe@everywhereehr.org](mailto:joe@everywherehr.org)
